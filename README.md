@@ -4,7 +4,7 @@ Simple analog clock using HTML, CSS and JavaScript.
 
 ## Clone
 
-Clone the repo (replace the URL with the real one):
+Clone the repo:
 
 ```
 git clone https://github.com/AyushAman1208/analog_clock.git
